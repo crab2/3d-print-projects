@@ -5,6 +5,7 @@
 | 子项目 | 说明 | 文件 |
 | --- | --- | --- |
 | [phone-stand](phone-stand/) | 手机支架，免支撑打印，带充电线孔 | [STL](phone-stand/phone_stand.stl) |
+| [phone-stand-foldable](phone-stand-foldable/) | 折叠手机支架，三档角度，折叠后 122 × 70 × 10 mm | [整盘 STL](phone-stand-foldable/plate_all.stl) |
 
 ## 新增子项目的约定
 
